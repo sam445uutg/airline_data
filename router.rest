@@ -1,0 +1,3 @@
+# GET http://127.0.0.1:5000/find_filght?src=Banglore&den=New%20Delhi&dat=2023-1-26 
+
+GET  http://localhost:5000/add_filght?airline=JetAirways&date-of-journey=22-10-2023&src=Janpur&den=New%20Delhi&Rout=jai-%3Edel&dep_t=22:50&arr_t=14:45&dur=2hr&tos=2stpos&addinfo=underfined&price=12257&flgno=LQ14
